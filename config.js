@@ -7,7 +7,7 @@ module.exports = {
   copyright: '© 1Piece.me. All rights reserved. Copyrights and trademarks for the anime, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law.',
   disqusShortname: '1Piece.me',
   postsPerPage: 50,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-58419551-5',
   menu: [
     {
       label: 'Episodes',
