@@ -1,7 +1,7 @@
 ---
 template: page
 title: DMCA
-slug: dmca/
+slug: /pages/dmca/
 draft: true
 ---
 **Legal Disclaimer**
