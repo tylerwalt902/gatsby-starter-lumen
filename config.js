@@ -23,7 +23,7 @@ module.exports = {
     }
   ],
   author: {
-    name: '1Piece',
+    name: '1Piece.me',
     photo: '/photo.jpg',
     bio: 'Watch latest one piece episodes for free online in high quality updated weekly in HD.',
     contacts: {
