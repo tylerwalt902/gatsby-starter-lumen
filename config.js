@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://1piece.me',
+  title: '1Piece - Watch One Piece Episodes Online For Free',
+  subtitle: 'Watch latest one piece episodes for free online in high quality updated weekly in HD.',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'aeonanime',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
@@ -14,18 +14,18 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'DMCA',
+      path: '/pages/dmca'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: '1Piece',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Watch latest one piece episodes for free online in high quality updated weekly in HD.',
     contacts: {
       email: '#',
       telegram: '#',
